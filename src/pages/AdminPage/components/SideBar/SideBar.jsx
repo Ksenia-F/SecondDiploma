@@ -93,7 +93,7 @@ export const Items = [
                         id: 1,
                         icon: articles,
                         text: "Статьи",
-                        page: "wtfreallyadmin",
+                        page: "articles",
                     },
                     {
                         id: 2,
